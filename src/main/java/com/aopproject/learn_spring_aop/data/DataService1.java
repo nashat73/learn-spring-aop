@@ -9,7 +9,7 @@ public class DataService1 {
 	//@TrackTime
 	public int[] retriveData()
 	{
-		return new int[] {11,22,33,44,55,66};
+		return new int[] {11,22,33,44,55};
 	}
 
 }
