@@ -10,7 +10,8 @@ public class DataService1 {
 	public int[] retriveData()
 	{
 		//added 66 in local branch
-		return new int[] {11,22,33,44,55,66};
+		//added 77 in local branch
+		return new int[] {11,22,33,44,55,66,77};
 	}
 
 }
